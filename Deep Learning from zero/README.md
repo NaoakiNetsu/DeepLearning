@@ -8,4 +8,4 @@
 
 ### 形式ニューロンの誕生
 
-<img src="https://user-images.githubusercontent.com/28583094/48361078-0a079080-e6e4-11e8-9c2a-5dad0a2a831b.png" alt="Fig. 1.1">
+![Fig. 1.1](https://user-images.githubusercontent.com/28583094/48361078-0a079080-e6e4-11e8-9c2a-5dad0a2a831b.png)
