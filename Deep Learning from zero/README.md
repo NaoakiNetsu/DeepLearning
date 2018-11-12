@@ -8,4 +8,4 @@
 
 ### 形式ニューロンの誕生
 
-![Fig. 1.1](https://github.com/NaoakiNetsu/DeepLearning/issues/1#issue-379857882)
+<img src="https://github.com/NaoakiNetsu/DeepLearning/issues/1#issue-379857882" alt="Fig. 1.1">
