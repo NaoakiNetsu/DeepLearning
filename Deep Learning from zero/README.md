@@ -10,7 +10,7 @@
 脳は多数の神経細胞（ニューロン）のつながり（ネットワーク）によって形成される。1943年、この神経細胞をモデル化した「形式ニューロン」が発表された。
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/48361078-0a079080-e6e4-11e8-9c2a-5dad0a2a831b.png" alt="Fig. 1.1">
+<img src="https://user-images.githubusercontent.com/28583094/48361078-0a079080-e6e4-11e8-9c2a-5dad0a2a831b.png" alt="Fig. 1.1"></br>
 Fig. 1.1
 </div>
 
