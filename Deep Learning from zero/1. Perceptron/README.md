@@ -4,8 +4,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/28583094/48417135-552dac00-e795-11e8-897f-3057dcea5d45.png" alt="Fig. 2.1">
 </div>
-
+<div align="center">
 Fig. 2.1
+</div>
 
 Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は重み、y は出力を表している。
 ※Fig. 1.2の表現と若干違うのは本書籍における表現方法と合わせたからである。根本的な考え方に相違はない。
