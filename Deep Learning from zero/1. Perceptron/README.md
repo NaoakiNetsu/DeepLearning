@@ -1,8 +1,8 @@
 ## パーセプトロン
 パーセプトロンとは複数信号を受け取り、一つの信号を出力するアルゴリズムである。このアルゴリズムはニューラルネットワークを学ぶ上で、非常に重要な考え方となる。
-
+<div style="text-align: center;">
 <img src="https://user-images.githubusercontent.com/28583094/48417135-552dac00-e795-11e8-897f-3057dcea5d45.png" alt="Fig. 2.1">
-
+</div>
 　Fig. 2.1
 
 Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は重み、y は出力を表している。
