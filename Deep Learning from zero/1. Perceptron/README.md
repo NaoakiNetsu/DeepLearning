@@ -2,7 +2,7 @@
 パーセプトロンとは複数信号を受け取り、一つの信号を出力するアルゴリズムです。このアルゴリズムはニューラルネットワークを学ぶ上で、非常に重要な考え方となります。
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/48417135-552dac00-e795-11e8-897f-3057dcea5d45.png" alt="Fig. 2.1">
+<img src="https://user-images.githubusercontent.com/28583094/48417135-552dac00-e795-11e8-897f-3057dcea5d45.png" alt="Fig. 2.1" height="200px">
 </div>
 <div align="center">
 Fig. 2.1
@@ -35,5 +35,14 @@ Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は�
 　
 
 そして、この新しいパラメータb を「**バイアス**」 と呼びます。バイアスb も閾値θ と同様に発火のしやすさを調整する機能を持っています。
+
+バイアスb を考慮してパーセプトロンを図示すると、
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/28583094/49094462-ae273500-f2a9-11e8-80a2-1cd79ff1b573.png" alt="Fig. 2.2" height="200px">
+</div>
+<div align="center">
+Fig. 2.2
+</div>
 
 ### バイアスの導入
