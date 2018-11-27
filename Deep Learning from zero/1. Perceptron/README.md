@@ -15,7 +15,7 @@ Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は�
 入力x それぞれに重みw を乗算し、その総和がある値(閾値)を超えた場合にのみ出力y が「1」となり、それ以外の場合は「0」となります。これは以下のような数式で表すことができる。
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/48417210-8312f080-e795-11e8-83c8-2ea44ec3481e.png" alt="数式2.1"　height="100px">
+<img src="https://user-images.githubusercontent.com/28583094/49093955-900d0500-f2a8-11e8-88ea-0062295da7c4.png" alt="数式2.1"　height="50px">
 </div>
 　
 
@@ -30,7 +30,7 @@ Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は�
 今後の説明をスムーズに進めるために、数式(2.1)の閾値θ を-b で置換して、以下のように修正します。
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/49093325-2e986680-f2a7-11e8-91e7-b52e0299fcd4.png" alt="数式2.2" height="100px">
+<img src="https://user-images.githubusercontent.com/28583094/49093325-2e986680-f2a7-11e8-91e7-b52e0299fcd4.png" alt="数式2.2" height="50px">
 </div>
 　
 
