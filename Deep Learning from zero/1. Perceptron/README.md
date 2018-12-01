@@ -60,9 +60,15 @@ h(x) という関数を用いることで、非常にシンプルな形で表現
 さらに、数式(2.3)を、
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/49325363-74457f80-f584-11e8-9641-f7af240c07ab.png" alt="数式2.5-6" height="80px">
+<img src="https://user-images.githubusercontent.com/28583094/49325363-74457f80-f584-11e8-9641-f7af240c07ab.png" alt="数式2.5-6" height="60px">
 </div>
 　
  
  と書き換えることで、以下のようにパーセプトロンを図示することができます。
  
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/28583094/49329642-73810d80-f5c5-11e8-866a-d27d291a2747.png" alt="Fig. 2.3" height="200px">
+</div>
+<div align="center">
+Fig. 2.3
+</div>
