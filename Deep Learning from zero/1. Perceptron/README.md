@@ -40,7 +40,7 @@ Fig. 2.1はパーセプトロンを図示したもので、x は入力、w は�
 バイアスb を考慮してパーセプトロンを図示すると、
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/49094462-ae273500-f2a9-11e8-80a2-1cd79ff1b573.png" alt="Fig. 2.2" height="200px">
+<img src="https://user-images.githubusercontent.com/28583094/49328532-df5b7a00-f5b5-11e8-87ec-9095235e4f82.png" alt="Fig. 2.2" height="200px">
 </div>
 <div align="center">
 Fig. 2.2
