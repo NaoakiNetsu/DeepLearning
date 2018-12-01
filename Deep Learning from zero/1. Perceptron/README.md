@@ -52,5 +52,5 @@ Fig. 2.2
 ここで、数式(2.2)を以下のように書き換えます。
  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/49325184-807c0d80-f581-11e8-9f63-832046a2e1dc.png" alt="数式2.3-4" height="100px">
+<img src="https://user-images.githubusercontent.com/28583094/49325184-807c0d80-f581-11e8-9f63-832046a2e1dc.png" alt="数式2.3-4" height="80px">
 </div>
