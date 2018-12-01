@@ -54,3 +54,15 @@ Fig. 2.2
 <div align="center">
 <img src="https://user-images.githubusercontent.com/28583094/49325184-807c0d80-f581-11e8-9f63-832046a2e1dc.png" alt="数式2.3-4" height="80px">
 </div>
+　
+
+h(x) という関数を用いることで、非常にシンプルな形で表現することができます。
+さらに、数式(2.3)を、
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/28583094/49325363-74457f80-f584-11e8-9641-f7af240c07ab.png" alt="数式2.5-6" height="80px">
+</div>
+　
+ 
+ と書き換えることで、以下のようにパーセプトロンを図示することができます。
+ 
