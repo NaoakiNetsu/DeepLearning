@@ -99,8 +99,10 @@ Fig. 2.4
 まず紹介するのは、「**シグモイド関数**」と呼ばれる関数で、以下の式で定義されます。
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/28583094/49381996-9abc1400-f758-11e8-847f-b8d9831800d5.png" alt="数式2.7" height="50px">
+<img src="https://user-images.githubusercontent.com/28583094/49382201-23d34b00-f759-11e8-90a6-fc8d7bed48bd.png" alt="数式2.7" height="50px">
 </div>
+
+そして、数式(2.7)を図示したものが以下のグラフになります。
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/28583094/49341356-a8f22d80-f68f-11e8-8067-c2cd7b852c9c.png" alt="Fig. 2.5" height="200px">
