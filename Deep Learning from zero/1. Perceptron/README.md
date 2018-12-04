@@ -119,6 +119,13 @@ Fig. 2.5
  
 #### ReLu 関数
 
+次に紹介するのは、「ReLU関数」と呼ばれる関数で、以下の式で定義されます。
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/28583094/49451655-05d21d00-f823-11e8-8c4a-944e6da50dc0.png" alt="数式2.7" height="60px">
+</div>
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/28583094/49341362-b7d8e000-f68f-11e8-9ec2-d732cc8fe6bc.png" alt="Fig. 2.6" height="200px">
 </div>
