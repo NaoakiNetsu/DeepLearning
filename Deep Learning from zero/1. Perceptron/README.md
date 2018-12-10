@@ -124,7 +124,7 @@ Fig. 2.5
 <div align="center">
 <img src="https://user-images.githubusercontent.com/28583094/49451655-05d21d00-f823-11e8-8c4a-944e6da50dc0.png" alt="数式2.7" height="50px">
 </div>
- 
+　
 
 そして、数式(2.8)を図示したものが以下のグラフになります。
 
