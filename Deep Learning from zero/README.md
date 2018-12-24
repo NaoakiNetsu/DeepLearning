@@ -6,3 +6,4 @@
 0. Deep Learning and Neural Network
 1. Perceptron
 2. Neural Network
+3. Training Neural Network
